@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: /images/covid/home-page-with-card.png
 title: 491 Covid App
 permalink: projects/covid-app
 # All dates must be YYYY-MM-DD format!
@@ -55,7 +55,7 @@ After getting an ObjectURL representing the selected file, the next challenge wa
 
 My solution was to base64 encode the image as a string and store it in the database in that format. MongoDB has a limit of 16MB per object, so this approach worked for a single vaccine card image. Displaying the image in the frontend was easy, as the `<img>` tag could automatically accept the base64 encoded image as its `src`. 
 
-![img](images/upload-card.png)
+![img](/images/covid/upload-card.png)
 *A screenshot of the vaccine card upload UI*
 
 ## Conclusion
