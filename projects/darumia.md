@@ -12,4 +12,4 @@ labels:
 summary: Social Media app to help users achieve their dreams 
 ---
 
-*more here later* 
+Darumia.com was a site I built with a friend in 2019. 

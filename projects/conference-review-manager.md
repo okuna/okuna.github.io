@@ -12,4 +12,6 @@ labels:
 summary: PHP/MySQL site to manage conference proceedings 
 ---
 
-*more later* 
+I built most of this back in 2017 for the International Structural Engineering Society. 
+
+https://www.conferencereviewmanager.com
