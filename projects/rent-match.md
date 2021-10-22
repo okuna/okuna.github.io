@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rentmatch/main-page.png
+image: images/rentmatch/landlord-chat-list.png
 title: RentMatch for Meteor Hackathon (ICS491)
 permalink: projects/rentmatch
 # All dates must be YYYY-MM-DD format!
