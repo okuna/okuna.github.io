@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: Close Calls (Insight Data Engineering)
-permalink: projects/covid-app
+permalink: projects/close-calls
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-01
 labels:
