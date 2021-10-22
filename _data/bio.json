@@ -2,11 +2,11 @@
   "basics": {
     "name": "Keith Okuna",
     "label": "Full Stack ASP.NET and NodeJS Developer",
-    "picture": "template/images/profile.jpg",
+    "picture": "/images/profile.jpg",
     "email": "kokuna@hawaii.edu",
     "phone": "",
     "website": "https://okuna.github.io",
-    "summary": "Full stack engineer expecting to graduate from UH Manoa in Spring 2022",
+    "summary": "Full stack engineer finishing school and expecting to graduate from UH Manoa in Spring 2022",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "okuna",
+        "url": "http://github.com/keithokuna"
       },
       {
         "network": "linkedin",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "artificial intelligence",
+      "name": "javascript",
       "keywords": [
       ]
     }
@@ -41,9 +41,12 @@
       "keywords": [
         "C/C++",
         "C#",
+        "WPF",
         "Java",
         "Javascript/Typescript",
-        "Node"
+        "Node",
+        "Angular",
+        "React"
       ]
     },
     {
@@ -77,6 +80,28 @@
       "summary": "Full stack developer using Node and Windows WPF / ASP.NET",
       "highlights": [
         "Full stack development on a WPF app"
+      ]
+    },
+    {
+      "company": "Insight Data Engineering",
+      "position": "Data Engineer",
+      "website": "",
+      "startDate": "2020-05-01",
+      "endDate": "2020-08-01",
+      "summary": "In four weeks, created a Spark/Python/Airflow/MySQL data engineering pipeline running on parallel EC2 instances that analyzed hundreds of gigabytes of flight tracking data, in faster than real-time, to detect close calls between airplanes",
+      "highlights": [
+        "Used Apache Spark for the first time"
+      ]
+    },
+    {
+      "company": "Federal Aviation Administration",
+      "position": "Air Traffic Controller",
+      "website": "",
+      "startDate": "2018-02-01",
+      "endDate": "2020-05-01",
+      "summary": "Air traffic controller",
+      "highlights": [
+        "didn't crash any airplanes together"
       ]
     }
   ]
