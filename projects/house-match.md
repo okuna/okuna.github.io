@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: /images/covid/home-page-with-card.png
-title: ICS 491 Meteor Hackathon
+image: images/covid/home-page-with-card.png
+title: HouseMatch for Meteor Hackathon (ICS 491)
 permalink: projects/housematch
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-20
