@@ -13,6 +13,7 @@ labels:
 summary: Big data patching pipeline and visualization for >500GB of ATC data 
 ---
 
-<iframe width="100%" src="https://www.youtube.com/embed/_ZoLmJV6aUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; ">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/_ZoLmJV6aUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 *more later*
