@@ -13,9 +13,11 @@ labels:
 summary: Entry for the 2021 Meteor Hackathon 
 ---
 
-https://github.com/491-Team-9/RentMatch
+![img](../images/rentmatch/landlord-chat-list.png)
 
-http://491-team-9-housematch.meteorapp.com
+Code: https://github.com/491-Team-9/RentMatch
+
+Live Project: http://491-team-9-housematch.meteorapp.com
 
 ## Overview 
 
