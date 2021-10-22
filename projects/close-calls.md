@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/etc/close-calls.png
 title: Close Calls (Insight Data Engineering)
 permalink: projects/close-calls
 # All dates must be YYYY-MM-DD format!
