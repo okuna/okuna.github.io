@@ -47,7 +47,7 @@ Creating real-time chat functionality was surprisingly easy to do with Meteor's 
 
 ## Personal contribution
 
-The project was my idea and design, and primarily my implementation as well, since I ended up making **96% of all commits** to the main branch. In terms of design, my primary accomplishments were: 
+The project was my idea and design, and primarily my implementation as well, since I ended up making the majority of the commits to the main branch. In terms of design, my primary accomplishments were: 
 
 - The Tinder-styled interface. An array of `rentals` is loaded from the database. Likes and dislikes are tracked with an array of `likes` and `dislikes` on each rental. 
 - Allowing renters and landlords to connect. Each `user` contains an array of `connections`; when a landlord approves a renter's request, the renter's `user._id` is added to the landlord's `user.connections` array, and vice versa.  
@@ -55,4 +55,4 @@ The project was my idea and design, and primarily my implementation as well, sin
 
 ## A learning experience
 
-My biggest takeaway from this project was the importance of team planning. As mentioned previously, by the end of the project, I had committed 96% of the total lines of code. Although the team did have a kanban board setup in Github, it seems that my teammates were unclear about which tasks needed to be fulfilled. In the future, I'll try to take a more proactive role with planning and ensure that everyone knows which task they should work on. 
+My biggest takeaway from this project was the importance of team planning. Although the team did have a kanban board setup in Github, it seems that my teammates were unclear about which tasks needed to be fulfilled. In the future, I'll try to take a more proactive role with planning and ensure that everyone knows which task they should work on. 
