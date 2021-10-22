@@ -13,8 +13,6 @@ labels:
 summary: A Meteor project clone of UH Lumisight 
 ---
 
-# 491 Covid Project 
-
 ## Overview 
 
 The goal of this project was to create an interactive web app replicating the functionality of [UH LumiSight](https://uh.campus.lumisight.com) with the Meteor stack. Our app was created collaboratively in a group of four people and has the following features:
