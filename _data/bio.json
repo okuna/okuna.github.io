@@ -93,7 +93,9 @@
       "endDate": "2020-08-01",
       "summary": "In four weeks, created a Spark/Python/Airflow/MySQL data engineering pipeline running on parallel EC2 instances that analyzed hundreds of gigabytes of flight tracking data, in faster than real-time, to detect close calls between airplanes",
       "highlights": [
-        "Used Apache Spark for the first time"
+        "Built a batching pipeline in four weeks to analyze ~300GB of air traffic radar data to detect near collisions of aircraft using AWS S3 for storage, Spark/Python for processing, and Aurelia/Node/MySQL for visualization",
+        "Tuned algorithm to efficiently reduce and compare nearly one million points of data per minute in faster than real time",
+        "Created a scheduling job in Airflow to allow the app to automatically ingest and process new data"
       ]
     },
     {
@@ -113,7 +115,12 @@
       "website": "",
       "startDate": "2014-06-01",
       "endDate": "2018-02-01",
-      "summary": "Development using PHP stack"
+      "summary": "Development using PHP stack",
+      "highlights": [
+        "Refactored undocumented LAMP (Linux, Apache, MySQL, PHP) project into the company’s first commercial software product and assisted with its delivery to the company’s first client",
+        "Revised user account permission system so that users did not need multiple accounts for different functions which improved application usability and greatly reduced technical support requests"
+      ]
+
     }
   ]
 }
