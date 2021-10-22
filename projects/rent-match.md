@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/covid/home-page-with-card.png
-title: HouseMatch for Meteor Hackathon (ICS 491)
-permalink: projects/housematch
+image: images/rentmatch/main-page.png
+title: RentMatch for Meteor Hackathon (ICS491)
+permalink: projects/rentmatch
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-20
 labels:

@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/covid/home-page-with-card.png
-title: Lumisight Covid App (ICS 491)
+title: Lumisight Covid App (ICS491)
 permalink: projects/covid-app
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-10
