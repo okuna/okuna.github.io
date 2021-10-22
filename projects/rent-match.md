@@ -47,11 +47,11 @@ Creating real-time chat functionality was surprisingly easy to do with Meteor's 
 
 ## Personal contribution
 
-The project was my idea and design, and primarily my implementation as well, with around **96% of all commits** to the main branch. In terms of design, my primary accomplishments were: 
+The project was my idea and design, and primarily my implementation as well, since I ended up making **96% of all commits** to the main branch. In terms of design, my primary accomplishments were: 
 
 - The Tinder-styled interface. An array of `rentals` is loaded from the database. Likes and dislikes are tracked with an array of `likes` and `dislikes` on each rental. 
-- Allowing renters and landlords to connect. This was accomplished by tracking an array of `connections` on each user. 
-- Real-time chat. As mentioned earlier, Meteor's powerful data binding made this simple and enjoyable to implement. 
+- Allowing renters and landlords to connect. Each `user` contains an array of `connections`; when a landlord approves a renter's request, the renter's `user._id` is added to the landlord's `user.connections` array, and vice versa.  
+- Real-time chat. As mentioned earlier, Meteor's powerful data binding made this straightforward and enjoyable to implement. 
 
 ## A learning experience
 
