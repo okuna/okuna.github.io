@@ -79,7 +79,10 @@
       "endDate": "Present",
       "summary": "Full stack developer using Node and Windows WPF / ASP.NET",
       "highlights": [
-        "Full stack development on a WPF app"
+        "Rewrote licensing Node.js server supporting over 3,000 active licenses to use Stripe APIs; seamlessly migrated existing purchases into Stripe and preserved compatibility with legacy app",
+        "Designed and built two new Angular apps with Node.js backend: an account management page for users, and an admin dashboard to view and manage user accounts",
+        "Ongoing development with a complex Windows Presentation Foundation app in C# with an ASP.NET Core backend that communicates with the Node.js account server using an OAuth implementation",
+        "Assisted onboarding and training new developer through pair programming and code review"
       ]
     },
     {
@@ -103,6 +106,14 @@
       "highlights": [
         "didn't crash any airplanes together"
       ]
+    },
+    {
+      "company": "International Structural Engineering Society",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2014-06-01",
+      "endDate": "2018-02-01",
+      "summary": "Development using PHP stack"
     }
   ]
 }
