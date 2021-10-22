@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: 
+title: 491 Covid App
+permalink: projects/covid-app
+# All dates must be YYYY-MM-DD format!
+date: 2021-10-10
+labels:
+  - Meteor
+  - React
+  - Javascript
+summary: A Meteor project clone of UH Lumisight 
+---
+
 # 491 Covid Project 
 
 ## Overview 
