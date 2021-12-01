@@ -107,6 +107,8 @@ Here is the check in system that I envisioned:
 
 ![img](../images/hawaii-trails/check-in-flow.png)
 
+The actual implementation contained everything in the flow chart except for the anonymous endpoint check-in, which we ran out of time to complete. The idea behind using an additional TrailCheckInCollection is that it would allow for easy data analytics in the future in order to create our own busy times data for each trail, instead of relying on any third party API. 
+
 When the user checks in, the device uses the user's current location to ensure that they are within a half mile of the trailhead. Then the device sends the check-in request to the Meteor server, which checks if the user has already checked-in within the past 12 hours. If so, the server returns an error which is displayed to the user. Otherwise, the user is awarded points. 
 
 Each check in is appended to an array of check-ins directly on the user object in the database, and also into a separate `TrailCheckInsCollection`. We hoped to eventually use the `TrailCheckInsCollection` to eventually create additional busy time data for trails without Google data, but we ran out of time before implementing this. 
