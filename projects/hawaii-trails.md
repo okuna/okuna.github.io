@@ -31,6 +31,8 @@ The project has two key components: a Meteor app supporting an admin management 
 
 I outlined the architecture of the system, set up the database by ingesting data from Google Busy Times, BestTime.app, and `portal.ehawaii.gov`, and configured the initial implementation of a Meteor REST endpoint. On the React Native app, I set up the map view with color-coded trail pins and implemented a check-in feature for users to receive points based on the trail's current level of traffic. 
 
+I also assisted Yong with getting the token based login system working.
+
 ### Data ingestion 
 
 The first step was getting a list of DLNR maintained trails. Luckily, the DLNR maintains such a list on their portal.ehawaii.gov page. Downloading a list of trails including their coordinates was as easy as inspecting the source of their page and getting JSON from the right URL. I then wrote a small script to deserialize each trail from JSON and insert it into the Meteor Mongo database. 
