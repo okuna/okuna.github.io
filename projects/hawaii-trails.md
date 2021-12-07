@@ -93,6 +93,7 @@ I also set up an "All Trails" view to display a list of trails, and a "Trail Det
 <div style="display: flex;">
 
 ![all-trails](../images/hawaii-trails/all-trails.png)
+
 ![all-trails](../images/hawaii-trails/trail-detail-busy.png)
 
 </div>
