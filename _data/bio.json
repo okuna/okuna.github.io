@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Keith Okuna",
-    "label": "Full Stack ASP.NET and NodeJS Developer",
+    "label": "Full Stack Engineer",
     "picture": "/images/profile.jpg",
     "email": "kokuna@hawaii.edu",
     "phone": "",
@@ -72,12 +72,20 @@
   ],
   "work": [
     {
+      "company": "Gartner (Pulse Q&A)",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "Full stack engineer using React and Go",
+    },
+    {
       "company": "GDS Estimating",
       "position": "Software Engineer",
       "website": "",
       "startDate": "2020-08-01",
-      "endDate": "Present",
-      "summary": "Full stack developer using Node and Windows WPF / ASP.NET",
+      "endDate": "2021-12-31",
+      "summary": "Full stack engineer using Node and Windows WPF / ASP.NET",
       "highlights": [
         "Rewrote licensing Node.js server supporting over 3,000 active licenses to use Stripe APIs; seamlessly migrated existing purchases into Stripe and preserved compatibility with legacy app",
         "Designed and built two new Angular apps with Node.js backend: an account management page for users, and an admin dashboard to view and manage user accounts",
