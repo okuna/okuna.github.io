@@ -6,7 +6,7 @@
     "email": "kokuna@hawaii.edu",
     "phone": "",
     "website": "https://okuna.github.io",
-    "summary": "Full stack engineer finishing school and expecting to graduate from UH Manoa in Spring 2022",
+    "summary": "Full stack engineer finishing school and expecting to graduate from UH Manoa in May 2022",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,14 +39,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Javascript/Typescript",
+        "Angular",
+        "React",
         "C/C++",
         "C#",
         "WPF",
         "Java",
-        "Javascript/Typescript",
-        "Node",
-        "Angular",
-        "React"
+        "Node"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "company": "Gartner (Pulse Q&A)",
       "position": "Senior Software Engineer",
       "website": "",
-      "startDate": "2022-01-01",
+      "startDate": "Jan. 2022",
       "endDate": "Present",
       "summary": "Full stack engineer using React and Go",
     },
@@ -83,8 +83,8 @@
       "company": "GDS Estimating",
       "position": "Software Engineer",
       "website": "",
-      "startDate": "2020-08-01",
-      "endDate": "2021-12-31",
+      "startDate": "Aug. 2020",
+      "endDate": "Dec. 2021",
       "summary": "Full stack engineer using Node and Windows WPF / ASP.NET",
       "highlights": [
         "Rewrote licensing Node.js server supporting over 3,000 active licenses to use Stripe APIs; seamlessly migrated existing purchases into Stripe and preserved compatibility with legacy app",
@@ -97,8 +97,8 @@
       "company": "Insight Data Engineering",
       "position": "Data Engineer",
       "website": "",
-      "startDate": "2020-05-01",
-      "endDate": "2020-08-01",
+      "startDate": "May 2020",
+      "endDate": "Aug. 2020",
       "summary": "In four weeks, created a Spark/Python/Airflow/MySQL data engineering pipeline running on parallel EC2 instances that analyzed hundreds of gigabytes of flight tracking data, in faster than real-time, to detect close calls between airplanes",
       "highlights": [
         "Built a batching pipeline in four weeks to analyze ~300GB of air traffic radar data to detect near collisions of aircraft using AWS S3 for storage, Spark/Python for processing, and Aurelia/Node/MySQL for visualization",
@@ -110,8 +110,8 @@
       "company": "Federal Aviation Administration",
       "position": "Air Traffic Controller",
       "website": "",
-      "startDate": "2018-02-01",
-      "endDate": "2020-05-01",
+      "startDate": "Feb. 2018",
+      "endDate": "May 2020",
       "summary": "Air traffic controller",
       "highlights": [
         "didn't crash any airplanes together"
@@ -121,8 +121,8 @@
       "company": "International Structural Engineering Society",
       "position": "Software Engineer",
       "website": "",
-      "startDate": "2014-06-01",
-      "endDate": "2018-02-01",
+      "startDate": "June 2014",
+      "endDate": "Feb. 2018",
       "summary": "Development using PHP stack",
       "highlights": [
         "Refactored undocumented LAMP (Linux, Apache, MySQL, PHP) project into the company’s first commercial software product and assisted with its delivery to the company’s first client",
